@@ -1,0 +1,39 @@
+body {
+  background: #fcfae2;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 600px;
+  margin: 60px auto;
+}
+
+h1,
+p,
+.links-container {
+  text-align: center;
+}
+
+h1 {
+  color: #77628c;
+  font-size: 32px;
+}
+
+p {
+  margin: 10px auto;
+  color: #4f7175;
+}
+
+.croissant-photo {
+  max-width: 70%;
+  border-radius: 10px;
+  display: block;
+  margin: 10px auto;
+}
+
+.links-container {
+  display: flex;
+  margin: 10px auto;
+  justify-content: center;
+}
+
+a {
+  padding: 10px 10px;
+}
